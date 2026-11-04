@@ -1,10 +1,17 @@
 {
-  "seq": 46,
   "title": "Third-Party and OT Patch Management Strategy for a Food Processing SME",
-  "slug": "third-party-and-ot-patch-management-strategy-for-a-food",
+  "old_slug": "third-party-and-ot-patch-management-strategy-for-a-food",
+  "slug": "ot-thirdparty-patch-strategy",
   "folder": "Third_Party_And_Ot_Patch_Management_Strategy",
-  "kind": "compliance",
-  "body_words": 261,
+  "kind": "general",
+  "body_words": 323,
+  "source": "SCI700",
   "project_id": "Project 15",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
